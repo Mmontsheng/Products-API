@@ -2,7 +2,7 @@
 
 ##### A simple REST online store api using node js, express, and mysql 
 
-Use an client that offers mysql. 
+Use any client that offers mysql. 
 I used [xampp](https://www.apachefriends.org/download)
 
 ## Quick Start
